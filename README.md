@@ -13,7 +13,7 @@ Izihash est un utilitaire web ultra-léger conçu pour vérifier l'intégrité d
 **La solution Izihash :** Le calcul de l'empreinte se fait directement dans la mémoire vive (RAM) de votre navigateur. Le fichier ne quitte JAMAIS votre ordinateur.
 
 <p align="center">
-  <a href="https://izihash.com"><strong>Essayer Izihash</strong></a>
+  <a href="https://izihash.4nh2wrxbvx.workers.dev/"><strong>Essayer Izihash</strong></a>
 </p>
 
 ---
