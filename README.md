@@ -22,18 +22,18 @@ Izihash est un utilitaire web ultra-léger conçu pour vérifier l'intégrité d
 
 Izihash démontre la puissance des capacités cryptographiques natives des navigateurs modernes (approche "Client-Side" pure).
 
-*   **Aucun upload serveur :** Les données restent strictement sur votre machine.
-*   **Traitement en RAM :** Le fichier est lu en mémoire tampon (`ArrayBuffer`), haché, puis la mémoire est libérée.
-*   **Fonctionne hors ligne :** Une fois l'application chargée, vous pouvez couper votre connexion internet et hacher vos fichiers en toute sécurité.
+   **Aucun upload serveur :** Les données restent strictement sur votre machine.
+   **Traitement en RAM :** Le fichier est lu en mémoire tampon (`ArrayBuffer`), haché, puis la mémoire est libérée.
+   **Fonctionne hors ligne :** Une fois l'application chargée, vous pouvez couper votre connexion internet et hacher vos fichiers en toute sécurité.
 
 ## Fonctionnalités
 
-*   **Hachage de fichiers :** Supporte n'importe quel type de fichier, quelle que soit sa taille (limité uniquement par la RAM de votre appareil).
-*   **Hachage de texte :** Pour la vérification de clés, mots de passe ou messages courts.
-*   **Algorithmes supportés :** SHA-256 (standard de l'industrie), SHA-384, SHA-512.
-*   **Comparaison automatique :** Collez le hash attendu, l'outil vous indique instantanément si les empreintes correspondent.
-*   **Multilingue :** Français 🇫🇷, Anglais 🇺🇸, Allemand 🇩🇪.
-*   **Théming :** Mode Clair et Mode Sombre.
+   **Hachage de fichiers :** Supporte n'importe quel type de fichier, quelle que soit sa taille (limité uniquement par la RAM de votre appareil).
+   **Hachage de texte :** Pour la vérification de clés, mots de passe ou messages courts.
+   **Algorithmes supportés :** SHA-256 (standard de l'industrie), SHA-384, SHA-512.
+   **Comparaison automatique :** Collez le hash attendu, l'outil vous indique instantanément si les empreintes correspondent.
+   **Multilingue :** Français 🇫🇷, Anglais 🇺🇸, Allemand 🇩🇪.
+   **Théming :** Mode Clair et Mode Sombre.
 
 ## Stack Technique
 
